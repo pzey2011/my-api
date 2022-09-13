@@ -1,40 +1,46 @@
 {
-   records: [
-        {
-          id: 4,
-          subject: 'Event A',
-          from: '10:10',
-          to: '14:10',
-          duration: '4:00',
-          date: 'Sep 20, 2022',
-          project: 'Lilla',
-          company: 'C1',
-          month: 'September 2022',
-          tags: ['tag1'],
-        },
-        {
-          id: 5,
-          subject: 'Event B',
-          from: '14:15',
-          to: '18:15',
-          duration: '4:00',
-          date: 'Sep 22, 2022',
-          project: 'Lilla',
-          company: 'C2',
-          month: 'September 2022',
-          tags: ['tag2'],
-        },
-         {
-          id: 6,
-          subject: 'Event C',
-          from: '14:15',
-          to: '18:15',
-          duration: '4:00',
-          date: 'Sep 21, 2022',
-          project: 'Lilla',
-          company: 'C3',
-          month: 'September 2022',
-          tags: ['tag3'],
-        },
-    ]
+   "records":[
+      {
+         "id":4,
+         "subject":"Event A",
+         "from":"10:10",
+         "to":"14:10",
+         "duration":"4:00",
+         "date":"Sep 20, 2022",
+         "project":"Lilla",
+         "company":"C1",
+         "month":"September 2022",
+         "tags":[
+            "tag1"
+         ]
+      },
+      {
+         "id":5,
+         "subject":"Event B",
+         "from":"14:15",
+         "to":"18:15",
+         "duration":"4:00",
+         "date":"Sep 22, 2022",
+         "project":"Lilla",
+         "company":"C2",
+         "month":"September 2022",
+         "tags":[
+            "tag2"
+         ]
+      },
+      {
+         "id":6,
+         "subject":"Event C",
+         "from":"14:15",
+         "to":"18:15",
+         "duration":"4:00",
+         "date":"Sep 21, 2022",
+         "project":"Lilla",
+         "company":"C3",
+         "month":"September 2022",
+         "tags":[
+            "tag3"
+         ]
+      }
+   ]
 }
