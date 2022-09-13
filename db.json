@@ -21,7 +21,7 @@
          "to":"18:15",
          "duration":"4:00",
          "date":"Sep 22, 2022",
-         "project":"Lilla",
+         "project":"Foo",
          "company":"C2",
          "month":"September 2022",
          "tags":[
@@ -35,7 +35,7 @@
          "to":"18:15",
          "duration":"4:00",
          "date":"Sep 21, 2022",
-         "project":"Lilla",
+         "project":"Purple",
          "company":"C3",
          "month":"September 2022",
          "tags":[
